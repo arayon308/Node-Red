@@ -5,10 +5,10 @@
   "main": "node-red-start.js",
   "scripts": {
     "start": "node node-red-start.js"
-  }
+  },
   "dependencies": {
     "node-red": "^3.0.0"
-  }
+  },
   "engines": {
     "node": ">=14"
   }
