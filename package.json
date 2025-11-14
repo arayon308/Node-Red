@@ -9,7 +9,7 @@
   "dependencies": {
     "node-red": "^3.0.0"
   },
-  "engines": {
+"engines": {
     "node": ">=14"
   }
 }
